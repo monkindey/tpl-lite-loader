@@ -19,6 +19,7 @@
 	// And then use it somewhere in your code
 	template(data) // Pass object with data
 	```
+	
 2. 在`webpack.config.js`使用
 	```javascript
 	module: {
