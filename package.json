@@ -1,0 +1,29 @@
+{
+	"name": "tpl-lite-loader",
+	"version": "0.1.0",
+	"description": "Underscore Templates loader for webpack",
+	"main": "index.js",
+	"keywords": [
+		"lodash",
+		"_",
+		"webpack",
+		"loader",
+		"template"
+	],
+	"author": {
+		"name": "monkindey",
+		"email": "monkindey@163.com"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"lodash.template": "*"
+	},
+	"peerDependencies": {
+		"lodash.template": "*"
+	},
+	"scripts": {},
+	"maintainers": [{
+		"name": "monkindey",
+		"email": "monkindey@163.com"
+	}]
+}
