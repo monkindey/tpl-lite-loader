@@ -4,8 +4,8 @@
 `lodash.template`模块，最后编译之后的代码量减少了大部分
 
 ## 安装(Installation)
-
-`npm install tpl-lite-loader`
+1. `npm install lodash.template`
+2. `npm install tpl-lite-loader`
 
 ## 使用(Usage)
 
